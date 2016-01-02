@@ -1,0 +1,3 @@
+ColumnName  	DataType  	   Size	              Description	                       Constraints	Default Value	Index	View
+Code       	  Text	         255	              Code of the Country	                          PK			
+Description	  Text	         255	              Description of the Country	                  NULL			
